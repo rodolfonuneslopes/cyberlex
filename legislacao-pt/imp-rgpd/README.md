@@ -1,0 +1,5 @@
+# Transposição do RGPD
+- Lei 58/2019 - Com a entrada em vigor do regulamento foi publicada em agosto de 2019 a lei 58/2019 que assegura a execução do RGPD, na ordem jurídica nacional e que regula o regime sancionatório aplicável (às organizações) assim como o enquadramento penal.
+- Lei n.º 59/2019 - Aprova as regras relativas ao tratamento de dados pessoais para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, transpondo a Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016.
+- Lei 34/2009 - Estabelece o regime jurídico aplicável ao tratamento de dados referentes ao sistema judicial.
+- Resolução do Conselho de Ministros n.º 41/2018 - Define orientações técnicas para a Administração Pública, em matéria de arquitetura de segurança das redes e sistemas de informação e procedimentos a adotar, de modo a cumprir as normas do RGPD.

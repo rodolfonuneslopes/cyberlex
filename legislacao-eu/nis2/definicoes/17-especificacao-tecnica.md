@@ -1,0 +1,10 @@
+# Especificação técnica
+(Ponto 17 do Artigo 6º da [Diretiva Diretiva (UE) 2022/2555 (NIS2)](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022L2555))
+
+**«Especificação técnica»**, uma especificação técnica na aceção do artigo 2.º, ponto 4, do Regulamento (UE) n.o 1025/2012[^1].
+
+[^1]: **«Especificação técnica»**, um documento que define os requisitos técnicos que um produto, processo, serviço ou sistema devem cumprir e que estabelece disposições relativas a um ou mais dos seguintes aspetos:
+	a) As características requeridas de um produto, nomeadamente níveis de qualidade, de desempenho, de interoperabilidade, de proteção do ambiente, de saúde, de segurança ou de dimensões, incluindo os requisitos aplicáveis ao produto no que respeita ao nome sob o qual é vendido, à terminologia, aos símbolos, aos ensaios e aos métodos de ensaio, à embalagem, à marcação ou à rotulagem e aos procedimentos de avaliação da conformidade;
+	b) Os métodos e processos de produção relativos aos produtos agrícolas, na aceção do artigo 38.º, n.º 1, do TFUE, aos produtos destinados à alimentação humana e animal e aos medicamentos, bem como os métodos e processos de produção relativos a outros produtos, desde que esses métodos e processos tenham incidência sobre as características destes últimos;
+	c) As características requeridas de um serviço, nomeadamente os níveis de qualidade, de desempenho, de interoperabilidade, de proteção do ambiente, de saúde ou de segurança, incluindo os requisitos aplicáveis aos prestadores no que se refere às informações a disponibilizar ao destinatário, tal como especificado no artigo 22.º, n.º 1, 2 e 3, da Diretiva 2006/123/CE;
+	d) Os métodos e critérios de avaliação do desempenho dos produtos de construção, na aceção do artigo 2.º, ponto 1, do Regulamento (UE) n.º 305/2011 do Parlamento Europeu e do Conselho, de 9 de março de 2011, que estabelece condições harmonizadas para a comercialização dos produtos de construção, relativamente às suas características essenciais.

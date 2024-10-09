@@ -1,0 +1,4 @@
+# Ponto de troca de tráfego
+(Ponto 18 do Artigo 6º da [Diretiva Diretiva (UE) 2022/2555 (NIS2)](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022L2555))
+
+**«Ponto de troca de tráfego»**, uma estrutura de rede que permite a interligação de mais de duas redes independentes (sistemas autónomos), sobretudo a fim de facilitar a troca de tráfego na Internet; um ponto de troca de tráfego só interliga sistemas autónomos; um ponto de troca de tráfego não implica que o tráfego na Internet entre um par de sistemas autónomos participantes passe através de um terceiro sistema autónomo, não altera esse tráfego nem interfere nele de qualquer outra forma.

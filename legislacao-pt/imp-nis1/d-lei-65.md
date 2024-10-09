@@ -1,0 +1,1 @@
+O Decreto-Lei n.º 65/2021 regulamenta o Regime Jurídico da Segurança do Ciberespaço e define as obrigações em matéria de certificação. O principal objetivo do documento é especificar os requisitos de segurança mínimos que devem ser cumpridos pelas entidades abrangidas pela L46. É um documento eminentemente técnico.

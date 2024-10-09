@@ -1,0 +1,1 @@
+O Artigo 6.º da [NIS2](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022L2555) fixa as chamadas "definições". Tais definições são apenas os conceitos principais usados ao longo do documento, as quais nos permitem sistematizar uma espécie de "wiki". É isto que aqui se apresenta.

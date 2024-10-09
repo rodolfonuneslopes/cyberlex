@@ -1,0 +1,4 @@
+# Registo de nomes de domínio de topo (TLD)
+(Ponto 21 do Artigo 6º da [Diretiva Diretiva (UE) 2022/2555 (NIS2)](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022L2555))
+
+**«Registo de nomes de domínio de topo»** ou **«Registo de nomes de TLD»**, uma entidade a quem foi delegado um TLD específico e que é responsável pela sua administração, incluindo o registo de nomes de domínio sob o TLD e a operação técnica desse TLD, incluindo a operação dos seus servidores de nomes, a manutenção das suas bases de dados e a distribuição de ficheiros da zona de TLD pelos servidores de nomes, independentemente de qualquer uma destas operações ser executada pela própria entidade ou ser externalizada, mas excluindo situações em que os nomes do TLD sejam utilizados por um registo apenas para uso próprio.

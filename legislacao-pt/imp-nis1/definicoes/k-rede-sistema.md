@@ -1,0 +1,4 @@
+# Rede e sistema de informação
+(Alínea k) do Artigo 3.º da [Lei n.º 46/2018](https://data.dre.pt/eli/lei/46/2018/08/13/p/dre/pt/html))
+
+**«Rede e sistema de informação»**, qualquer dispositivo ou conjunto de dispositivos interligados ou associados, em que um ou mais de entre eles desenvolve, em execução de um programa, o tratamento automatizado de dados informáticos, bem como a rede de comunicações eletrónicas que suporta a comunicação entre eles e o conjunto de dados informáticos armazenados, tratados, recuperados ou transmitidos por aquele ou aqueles dispositivos, tendo em vista o seu funcionamento, utilização, proteção e manutenção.
